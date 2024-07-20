@@ -63,6 +63,8 @@ h1 {
 }
 
 .photo-description {
+    margin-right: 15px;
+    margin-left: 15px;
     padding: 10px;
     font-size: 14px;
     color: #333;
